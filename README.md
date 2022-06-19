@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <div> 
- <h1 width="150px">Lets get to work!</h1>   
+ <div>
+  <img src="https://media.giphy.com/media/RZK9vlUWD5BcrimGC3/giphy.gif"  width="200"/>
+    </div>
+    
 <div>
   <img src="https://media.giphy.com/media/RaSUVoIOMry3aDKvKL/giphy.gif" width="200"/>
     </div>
@@ -23,7 +26,7 @@
   <h1>Hey Folks :wave:</h1>
   </div>
   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/tvA295yuIB0ORzQTIc/giphy.gif" width="600" height="300"/>
 </div>
 <hr>
 <div align="left">
