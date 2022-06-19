@@ -23,7 +23,7 @@
   <div>
             <img src="https://media.giphy.com/media/dJezVlwfVulTykjRQj/giphy.gif" width="110" />
         </div>
-  <h1>Hey Folks :wave:</h1>
+  <h1>Hey Folks! I'm Hassan :wave:</h1>
   </div>
   <div align="center">
   <img src="https://media.giphy.com/media/tvA295yuIB0ORzQTIc/giphy.gif" width="600" height="300"/>
