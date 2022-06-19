@@ -1,7 +1,7 @@
 <div id="header" align="center">
 
-  
- <h1>Lets get to work!</h1>   
+  <div> 
+ <h1 width="150px">Lets get to work!</h1>   
 <div>
   <img src="https://media.giphy.com/media/RaSUVoIOMry3aDKvKL/giphy.gif" width="200"/>
     </div>
@@ -16,13 +16,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  
 <br>
   <div>
             <img src="https://media.giphy.com/media/dJezVlwfVulTykjRQj/giphy.gif" width="110" />
         </div>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <h1>Hey Folks :wave:</h1>
   </div>
   
