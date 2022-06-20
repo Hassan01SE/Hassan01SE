@@ -62,6 +62,6 @@
 <br>
 
 ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hassan01SE&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hassan01SE&theme=highcontrast&hide_border=true)](https://github.com/Hassan01SE)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan01SE&layout=compact&theme=highcontrast&hide_border=true)
