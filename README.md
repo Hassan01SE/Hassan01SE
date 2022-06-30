@@ -14,7 +14,7 @@
   <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=hassansohail.se2001@gmail.com&su=SUBJECT&body=BODY">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a target="_blank" href="https://twitter.com/HassanS11495204">
+  <a target="_blank" href="https://twitter.com/Hassan01SE">
     <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
