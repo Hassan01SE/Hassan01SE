@@ -26,7 +26,7 @@
   <h1>Hey Folks! I'm Hassan :wave:</h1>
   </div>
   <div align="center">
-  <img src="https://media.giphy.com/media/tvA295yuIB0ORzQTIc/giphy.gif" width="600" height="300"/>
+  <img src="https://hemalcorporation.com/wp-content/uploads/2020/02/web-development.gif" width="600" height="300"/>
 </div>
 <hr>
 <div align="left">
