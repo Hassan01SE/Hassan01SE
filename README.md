@@ -20,9 +20,13 @@
 </div>
   
 <br>
-  <div>
-            <img src="https://media.giphy.com/media/dJezVlwfVulTykjRQj/giphy.gif" width="110" />
-        </div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=18&pause=1000&color=43F783&center=true&vCenter=true&width=435&lines=Programming+is+not+about+typing+;+It's+about+thinking!" alt="Typing SVG" /></a>
+    <p align="center"> 🌠
+  <img width="200"  src="https://media.giphy.com/media/dJezVlwfVulTykjRQj/giphy.gif">   🌠
+</p>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=500&size=18&pause=1000&color=D5F71E&center=true&vCenter=true&width=435&lines=Good+code+is+its+own+best+documentation!;The+best+code+is+no+code+at+all!%F0%9F%98%8A;Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad." alt="Typing SVG" /></a> 
+    <br>
+   
   <h1>Hey Folks! I'm Hassan :wave:</h1>
   </div>
   <div align="center">
