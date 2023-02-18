@@ -18,14 +18,20 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  
-<br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Times+Roman&weight=500&size=17&pause=1000&color=0DD3F7&center=true&multiline=true&width=435&height=47&lines=%22Programming+is+not+about+typing%22;%22It's+about+thinking.%22+-+Rich+Hickey" alt="Typing SVG" /></a> <br> 
-    <p align="center"> 🌠
-  <img width="200"  src="https://media.giphy.com/media/dJezVlwfVulTykjRQj/giphy.gif">   🌠
-</p>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=500&size=18&pause=1000&color=D5F71E&center=true&vCenter=true&width=435&lines=Good+code+is+its+own+best+documentation!;The+best+code+is+no+code+at+all!%F0%9F%98%8A;Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad." alt="Typing SVG" /></a> 
     <br>
+    <br>
+    
+        *     *      *    * *      *  *  *    *   *   *
+    *  *  *   * * *  *  *  *  * *  *  *    *   *   *
+    *  *  *   * * *  *  *  *  * *  *  *    *   *   *
+    *     *      *    * *      *  *  *    *   *   *
+    *  *  *   *    *  *   *    *   *   *  *  * *  *
+    *  *  *   *    *  *   *    *   *   *  *  * *  *
+
+  <div>
+     <p align="center"> 🌠<img width="200"  src="https://media.giphy.com/media/dJezVlwfVulTykjRQj/giphy.gif">🌠</p>
+    </div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Times+Roman&weight=500&size=17&pause=1000&color=FFFF33&center=true&multiline=true&width=435&height=47&lines=%22Programming+is+not+about+typing%22;%22It's+about+thinking.%22+-+Rich+Hickey" alt="Typing SVG" /></a>
    
   <h1>Hey Folks! I'm Hassan :wave:</h1>
   </div>
