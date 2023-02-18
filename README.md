@@ -21,12 +21,7 @@
     <br>
     <br>
     
-        *     *      *    * *      *  *  *    *   *   *
-    *  *  *   * * *  *  *  *  * *  *  *    *   *   *
-    *  *  *   * * *  *  *  *  * *  *  *    *   *   *
-    *     *      *    * *      *  *  *    *   *   *
-    *  *  *   *    *  *   *    *   *   *  *  * *  *
-    *  *  *   *    *  *   *    *   *   *  *  * *  *
+    
 
   <div>
      <p align="center"> 🌠<img width="200"  src="https://media.giphy.com/media/dJezVlwfVulTykjRQj/giphy.gif">🌠</p>
