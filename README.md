@@ -42,7 +42,7 @@
   - 👨‍🎓 I'm an avid learner who is keen on the matter of problem-solving and logic building.
   - 🌟My area of interest lies in the domain of Web Development and Cloud Computing but I'm also eager to achieve pansophy in every existing technology of Computer Science.
   - ⚡ In my free time, I solve problems on Leetcode and HackerRank.
-  - ⚓ 2022 Goals: Learn Web 3.0 and become more proficient with AWS.
+  - ⚓ 2023 Goals: Learn Mobile App development and become more proficient with AWS.
   - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hassan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassansohail-software-engineer/)
   
   </div>
