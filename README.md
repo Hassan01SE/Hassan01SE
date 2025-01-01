@@ -37,12 +37,12 @@
 <div align="left">
   
 ### :man_technologist: About Me :
--I am an Undergrad Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+-I am a Software Engineer with specialized certification in META Front-End and Back-End Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
   - 👨‍🎓 I'm an avid learner who is keen on the matter of problem-solving and logic building.
   - 🌟My area of interest lies in the domain of Web Development and Cloud Computing but I'm also eager to achieve pansophy in every existing technology of Computer Science.
   - ⚡ In my free time, I solve problems on Leetcode and HackerRank.
-  - ⚓ 2024 Goals: Learn DevOps.
+  - ⚓ 2025 Goals: Prepare for AWS DevOps Engineer Certification.
   - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hassan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassansohail-software-engineer/)
   
   </div>
