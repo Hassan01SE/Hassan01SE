@@ -1,73 +1,149 @@
-<div id="header" align="center">
-  <div> 
- <div>
+<div align="center">
+
+<div>
   <img src="https://media.giphy.com/media/Yi4JvR3PsfitieAS04/giphy.gif" width="200"/>
     </div>
     
 <div>
   <img src="https://media.giphy.com/media/RaSUVoIOMry3aDKvKL/giphy.gif" width="200"/>
     </div>
-<div id="badges">
-  <a target="_blank" href="https://www.linkedin.com/in/hassansohail-software-engineer/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/>
-  </a>
-  <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=hassansohail.se2001@gmail.com&su=SUBJECT&body=BODY">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a target="_blank" href="https://twitter.com/Hassan01SE">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-    <br>
-    <br>
-    
-    
 
-  <div>
-     <p align="center"> 🌠<img width="200"  src="https://media.giphy.com/media/dJezVlwfVulTykjRQj/giphy.gif">🌠</p>
-    </div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=New+Times+Roman&weight=500&size=17&pause=1000&color=FFFF33&center=true&multiline=true&width=435&height=47&lines=%22Programming+is+not+about+typing%22;%22It's+about+thinking.%22+-+Rich+Hickey" alt="Typing SVG" /></a>
-   
-  <h1>Hey Folks! I'm Hassan :wave:</h1>
-  </div>
-  <div align="center">
-  <img src="https://hemalcorporation.com/wp-content/uploads/2020/02/web-development.gif" width="600" height="300"/>
-</div>
-<hr>
-<div align="left">
-  
-### :man_technologist: About Me :
--I am a Software Engineer with specialized certification in META Front-End and Back-End Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  
-  - 👨‍🎓 I'm an avid learner who is keen on the matter of problem-solving and logic building.
-  - 🌟My area of interest lies in the domain of Web Development and Cloud Computing but I'm also eager to achieve pansophy in every existing technology of Computer Science.
-  - ⚡ In my free time, I solve problems on Leetcode and HackerRank.
-  - ⚓ 2025 Goals: Prepare for AWS DevOps Engineer Certification.
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hassan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassansohail-software-engineer/)
-  
-  </div>
-  <hr>
+  <h1>Hi, I'm Hassan Sohail 👋</h1>
 
-### :hammer_and_wrench: Languages and Tools :
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" **alt="C#" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GoogleCloud" alt="GCP" width="40" height="40"/>&nbsp;
-</div>
-<br>
+  <h3>Software Engineer | Full-Stack Development | Backend Systems | Cloud | IoT Integrations</h3>
 
-### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hassan01SE&theme=highcontrast&hide_border=true)](https://github.com/Hassan01SE)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan01SE&layout=compact&theme=highcontrast&hide_border=true)
+  <p>
+    I build full-stack web platforms, backend services, dashboards, cloud-deployed applications, and real-time integrations.
+  </p>
+
+  <a href="https://hassan-sohail.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/hassansohail-software-engineer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Hassan01SE" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://medium.com/@Hassan01SE" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="mailto:hassansohail.se2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+---
+
+## About Me
+
+I am a Software Engineer with experience across frontend development, backend systems, databases, cloud deployment, IoT communication, and payment integrations.
+
+Currently, I work on production software involving scalable APIs, admin dashboards, real-time MQTT communication, Azure services, and third-party payment workflows.
+
+* Software Engineering graduate from **NED University of Engineering & Technology**
+* Experienced with **React, Next.js, TypeScript, Django REST Framework, Node.js, PostgreSQL, MongoDB, and Azure**
+* Worked with **MQTT**, webhooks, cloud-hosted APIs, and payment integrations
+* Interested in scalable software systems, backend architecture, applied AI, cloud engineering, and clean developer workflows
+* I also write technical articles on Medium about backend development, cloud storage, and integrations
+
+---
+
+## Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=111827)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwindcss\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat\&logo=redux\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat\&logo=django\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=flat\&logo=postman\&logoColor=white)
+
+### Databases, Cloud & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat\&logo=microsoftazure\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat\&logo=mqtt\&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat\&logo=stripe\&logoColor=white)
+![Square](https://img.shields.io/badge/Square-3E4348?style=flat\&logo=square\&logoColor=white)
+
+---
+
+## Certifications
+
+* **Meta Full-Stack Engineer Certificate** — Coursera / Meta
+* **Meta Back-End Developer Professional Certificate** — Coursera / Meta
+* **Meta Front-End Developer Professional Certificate** — Coursera / Meta
+
+---
+
+## Technical Writing
+
+I write about backend development, cloud storage, MQTT integrations, and full-stack engineering.
+
+<a href="https://medium.com/@Hassan01SE" target="_blank">
+  <img src="https://img.shields.io/badge/Read_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read on Medium" />
+</a>
+
+---
+
+## Current Focus
+
+* Building production-grade full-stack applications
+* Improving backend architecture and API design
+* Working with cloud deployments and real-time systems
+* Learning deeper system design, DevOps, and AI-assisted development workflows
+
+---
+
+<p align="center">
+  <i>Clean code, reliable systems, and thoughtful user experiences.</i>
+</p>
+
+## GitHub Insights
+
+<p align="center">
+  <img
+    src="profile-summary-card-output/github_dark/0-profile-details.svg"
+    alt="Hassan Sohail GitHub profile summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    alt="Repositories per language"
+  />
+  <img
+    src="profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    alt="Most committed languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="profile-summary-card-output/github_dark/3-stats.svg"
+    alt="GitHub stats"
+  />
+  <img
+    src="profile-summary-card-output/github_dark/4-productive-time.svg"
+    alt="Productive time"
+  />
+</p>
